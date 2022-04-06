@@ -54,3 +54,5 @@
 - 平民阶级取得政治上的胜利
 - 主权在民，法律上人人平等
 - 天赋人权观念深入民心，对世界历史造成很大影响
+
+Originally written by Jovi and published on April 6, 2022
