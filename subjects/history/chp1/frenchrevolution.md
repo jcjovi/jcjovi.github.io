@@ -56,6 +56,8 @@
 - 主权在民，法律上人人平等
 - 天赋人权观念深入民心，对世界历史造成很大影响
 
+<br>
+
 PDF file for this note is available [here](https://github.com/jcjovi/jcjovi.github.io/blob/gh-pages/files/HISChp1-French.pdf).
 您可以在[此处](https://github.com/jcjovi/jcjovi.github.io/blob/gh-pages/files/HISChp1-French.pdf)下载此笔记的PDF档案。
 
