@@ -1,9 +1,9 @@
 ## 科目选项
-### [历史](https://jcjovi.github.io/subjects/history)
-### [地理](https://jcjovi.github.io/subjects/geography)
-### [科学](https://jcjovi.github.io/subjects/science)
-### [数学](https://jcjovi.github.io/subjects/maths)
-### [中文](https://jcjovi.github.io/subjects/chinese)
+### [历史](https://jcjovi.github.io/subjects/historyhome)
+### [地理](https://jcjovi.github.io/subjects/geographyhome)
+### [科学](https://jcjovi.github.io/subjects/sciencehome)
+### [数学](https://jcjovi.github.io/subjects/mathshome)
+### [中文](https://jcjovi.github.io/subjects/chinesehome)
 
 <br>
 
