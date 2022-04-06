@@ -1,6 +1,5 @@
-# Jovi's Noteland - Simplified, information-packed notes for everyone.
-<br>
-
+# Jovi's Noteland
+# Simplified, information-packed notes for everyone.
 # How to contribute to Jovi's Noteland
 ## First Steps
 Well hello, and welcome to the world of code.
