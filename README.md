@@ -1,5 +1,5 @@
-# jcjovi.github.io
-### Simplified, information-packed notes for everyone
+# Jovi's Noteland - Simplified, information-packed notes for everyone.
+<br>
 
 # How to contribute to Jovi's Noteland
 ## First Steps
