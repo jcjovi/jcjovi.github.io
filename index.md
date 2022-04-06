@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Jovi's Noteland
 
-You can use the [editor on GitHub](https://github.com/hashgreenlol/mynotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### EN
+Welcome! Here, you will find notes written by me, and notes written by others, for most subjects. All notes are classified into subject and chapters, so you can find the note you want with ease. All the best on your studies and good luck!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Should you be interested to contribute to the website, please reach out to Jovi via email (jcjovi0429@gmail.com) or WhatsApp. Much thanks!
 
-### Markdown
+A full list of all notes available on the website can be found [here](https://jcjovi.github.io/full "Full list of notes available on the website").
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 中文
+欢迎！在这里，你可以找到许多由我或其他人制作及整理的笔记。所有笔记都被根据科目，章节分门别类，以便您可以简易地找到您想要的笔记。我祝福你在学业上一切顺利！
 
-```markdown
-Syntax highlighted code block
+若您有兴趣加入并为这个网站做出贡献，您可以通过电邮 (jcjovi0429@gmail.com) ，或者WhatsApp联络我。我在此感谢您对此网站的支持。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hashgreenlol/mynotes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+我们为您整理了各科各章节的笔记，可以在[这里](https://jcjovi.github.io/full "Full list of notes available on the website")找到。
