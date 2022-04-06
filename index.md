@@ -12,4 +12,4 @@ A full list of all notes available on the website can be found [here](https://jc
 
 若您有兴趣加入并为这个网站做出贡献，您可以通过电邮 (jcjovi0429@gmail.com) ，或者WhatsApp联络我。我在此感谢您对此网站的支持。
 
-我们为您整理了各科各章节的笔记，可以在[这里](https://jcjovi.github.io/full "Full list of notes available on the website")找到。
+我们为您整理了各科各章节的笔记，可以在[这里](https://jcjovi.github.io/full "一个完整的笔记列单")找到。
