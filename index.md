@@ -16,7 +16,7 @@ Should you discover any bugs or typing errors, or encounter issues with the webs
 
 若您有兴趣加入并为这个网站做出贡献，您可以通过电邮 (jcjovi0429@gmail.com) ，或者WhatsApp联络我。我在此感谢您对此网站的支持。
 
-我们为您整理了各科各章节的笔记，可以在[这里](https://jcjovi.github.io/full "一个完整的笔记列单")找到。
+我们为您整理了各科各章节的笔记，可以在[这里](https://jcjovi.github.io/full "一个完整的笔记列单")找到完整列单。
 
 您可以[在此](https://github.com/jcjovi/jcjovi.github.io)找到此网站的编码，您也可以[在此](https://github.com/jcjovi/jcjovi.github.io/readme.md)找到发布笔记的正确步骤。
 
