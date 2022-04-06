@@ -12,6 +12,8 @@
 ### [Chapter 1 第一章 - American Revolutionary War 美国独立战争](https://jcjovi.github.io/subjects/history/chp1/americanrevolutionarywar)
 ### [Chapter 1 第一章 - French Revolution 法国大革命](https://jcjovi.github.io/subjects/history/chp1/frenchrevolution)
 
+<br>
+
 # Fresh Notes 新发布笔记
 ## History 历史
 ### [Chapter 1 第一章 - American Revolutionary War 美国独立战争](https://jcjovi.github.io/subjects/history/chp1/americanrevolutionarywar)
