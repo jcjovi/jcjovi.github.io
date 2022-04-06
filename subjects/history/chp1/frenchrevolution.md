@@ -9,8 +9,6 @@
 > - 平民 97%
 - 教士和贵族虽占人口极少数，但却享有免税特权
 - 政府财政负担全落在平民身上，导致民怨四起
-<br>
-<br>
 - 法国连年对外战争，宫廷生活挥霍无度，国库负债累累，唯能增加税收
   - 城市中的知识分子受启蒙思想和美国独立运动影响，已经受不住这种制度
 
@@ -55,8 +53,6 @@
 - 平民阶级取得政治上的胜利
 - 主权在民，法律上人人平等
 - 天赋人权观念深入民心，对世界历史造成很大影响
-
-<br>
 
 PDF file for this note is available [here](https://github.com/jcjovi/jcjovi.github.io/blob/gh-pages/files/HISChp1-French.pdf).
 您可以在[此处](https://github.com/jcjovi/jcjovi.github.io/blob/gh-pages/files/HISChp1-French.pdf)下载此笔记的PDF档案。
