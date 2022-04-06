@@ -1,4 +1,4 @@
-## Welcome to Jovi's Noteland 欢迎莅临骏伟的笔记所
+## Welcome to Jovi's Noteland 欢迎莅临骏伟笔记所
 
 ### EN
 Welcome! Here, you will find notes written by me, and notes written by others, for most subjects. All notes are classified into subject and chapters, so you can find the note you want with ease. All the best on your studies and good luck!
