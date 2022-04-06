@@ -90,4 +90,5 @@
 | 1898 | 借 “美西战争取得波多黎各, 关岛，菲律宾等地，并吞并夏威夷 |
 | 1914 | 取得巴拿马运河开凿权，垄断美洲贸易 |
 
+PDF file for this note is available at: https://github.com/jcjovi/jcjovi.github.io/blob/gh-pages/files/HISChp1-American.pdf
 Originally written by Jovi and published on April 6, 2022
