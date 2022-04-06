@@ -1,4 +1,4 @@
-###### [< History Selection Page 历史选项页](https://jcjovi.github.io/subjects/historyhome)
+###### [< History Notes Index 历史笔记列单](https://jcjovi.github.io/subjects/historyhome)
 # 第一章 法国大革命
 
 ## 背景
