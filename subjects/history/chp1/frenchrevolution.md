@@ -1,4 +1,4 @@
-###### [< History Notes Index 历史笔记列单](https://jcjovi.github.io/subjects/history/index)
+###### [< History Notes Index 历史笔记目录](https://jcjovi.github.io/subjects/history/index)
 # 第一章 法国大革命
 
 ## 背景
