@@ -1,8 +1,8 @@
 # Welcome 欢迎
 
-# Quick Links 快速链接
-## [Notes List 笔记列表](https://jcjovi.github.io/notesindex)
-## [Website Repository 网站编码](https://github.com/jcjovi/jcjovi.github.io)
+## Quick Links 快速链接
+### [Notes List 笔记列表](https://jcjovi.github.io/notesindex)
+### [Website Repository 网站编码](https://github.com/jcjovi/jcjovi.github.io)
 
 ## EN
 Welcome! Here, you will find notes written by me, and notes written by others, for most subjects. All notes are classified into subject and chapters, so you can find the note you want with ease. All the best on your studies and good luck!
