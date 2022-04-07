@@ -1,4 +1,4 @@
-###### [< Home 主页](https://jcjovi.github.io/)
+###### [< Notes Index 笔记列表](https://jcjovi.github.io/subjects/index)
 # History Notes Index 历史笔记列单 
 ## Chapter 1 第一章 
 ### [American Revolutionary War 美国独立战争](https://jcjovi.github.io/subjects/history/chp1/americanrevolutionarywar)
