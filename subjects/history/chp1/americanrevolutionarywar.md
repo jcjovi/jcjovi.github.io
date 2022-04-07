@@ -1,4 +1,4 @@
-###### [< History Notes Index 历史笔记列单](https://jcjovi.github.io/subjects/historyindex)
+###### [< History Notes Index 历史笔记列单](https://jcjovi.github.io/subjects/history/index)
 # 第一章 美国独立战争
 
 ## 英国在18世纪初期在北美东岸建立13个殖民地
