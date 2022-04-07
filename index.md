@@ -1,7 +1,7 @@
 ## Welcome to Jovi's Noteland 欢迎莅临骏伟笔记所
 
 ## Quick Links 快速链接
-### [Notes List 笔记列表](https://jcjovi.github.io/noteslist)
+### [Notes List 笔记列表](https://jcjovi.github.io/notesindex)
 ### [Website Repository 网站编码](https://github.com/jcjovi/jcjovi.github.io)
 
 ### EN
