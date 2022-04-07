@@ -1,7 +1,7 @@
 # Welcome 欢迎
 
 ## Quick Links 快速链接
-### [Notes List 笔记列表](https://jcjovi.github.io/notesindex)
+### [Notes Index 笔记列表](https://jcjovi.github.io/subjects/index)
 ### [Website Repository 网站编码](https://github.com/jcjovi/jcjovi.github.io)
 
 ## EN
