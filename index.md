@@ -1,8 +1,9 @@
 # Welcome 欢迎
-##### We are committed to remember Nagaenthran K. Dharmalingam.
+##### Remembering Nagaenthran Dharmanlingam.
 
 ## Quick Links 快速链接
 ### [Notes Index 笔记目录](https://jcjovi.github.io/subjects/index)
+### [Jovi's Blog 骏伟的部落格](https://jcjovi.github.io/blog)
 ### [Website Repository 网站编码](https://github.com/jcjovi/jcjovi.github.io)
 
 ## EN
