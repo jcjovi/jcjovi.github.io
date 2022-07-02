@@ -1,5 +1,5 @@
 # Progress on my school switch
-## All starts on May 14, 2022.
+## May 14 - July 1, 2022
 
 ## Day 1: Inspiration
 Thank you so much.
