@@ -3,3 +3,6 @@
 
 ## Day 1: Inspiration
 Thank you so much.
+
+## Day 48: I'm out!
+Finally.
